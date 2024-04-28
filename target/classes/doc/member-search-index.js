@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lottoZahlApp","c":"Sechs49Test","l":"AnzLottoZahlTest()"},{"p":"lottoZahlApp","c":"Sechs49Test","l":"DuplicacyTest()"},{"p":"lottoZahlApp","c":"Sechs49Test","l":"genLottoZahl()"},{"p":"lottoZahlApp","c":"Sechs49Test","l":"Sechs49Test()","u":"%3Cinit%3E()"},{"p":"lottoZahlApp","c":"Sechs49Test","l":"TestDuplicacy()"}];updateSearchResults();
